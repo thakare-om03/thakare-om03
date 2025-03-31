@@ -4,9 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=500&lines=Budding+Developer;Pre-final+Year+at+SRMIST;+Always+Growing" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=thakare-om03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<a href="https://twitter.com/thakare_twts"><img src="https://img.shields.io/twitter/follow/thakare_twts?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-<a href="https://www.linkedin.com/in/om-thakare-8768bb166/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<div>
+  <a href="https://twitter.com/thakare_twts"><img src="https://img.shields.io/twitter/follow/thakare_twts?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://www.linkedin.com/in/om-thakare-8768bb166/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Profile%20Views-393-0e75b6?style=for-the-badge" alt="Profile views" />
+</div>
 
 </div>
 
@@ -72,7 +74,7 @@ I'm a budding developer with hands-on experience in multiple programming languag
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F9E2AF&center=true&vCenter=true&random=false&width=500&lines=JavaScript;MongoDB;React;NodeJS;Machine+Learning;AI;" alt="Learning Progress" />
   </a>
   
-  <div>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=js,mongodb,react,nodejs" alt="Currently Learning" />
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker" alt="Exploring" />
   </div>
@@ -95,8 +97,8 @@ I'm a budding developer with hands-on experience in multiple programming languag
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thakare-om03&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakare-om03&layout=compact&theme=tokyonight" alt="Top Languages" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thakare-om03&show_icons=true&theme=tokyonight&card_width=495" alt="GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakare-om03&layout=compact&theme=tokyonight&card_width=495" alt="Top Languages" style="height: 200px;" />
 </div>
 
 ## 🛠️ Languages and Tools
@@ -122,16 +124,22 @@ I'm a budding developer with hands-on experience in multiple programming languag
   <a href="mailto:om.thakare3217@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <h3>📄 <a href="https://drive.google.com/file/d/15S-7ebaVzwVVf1LSjWqRRdOf3X3eZc4U/view?usp=drive_link">View My Resume</a></h3>
 </div>
 
+## 🐍 Contribution Graph
+
 <div align="center">
-  <h3>📄 <a href="https://drive.google.com/file/d/15S-7ebaVzwVVf1LSjWqRRdOf3X3eZc4U/view?usp=drive_link">View My Resume</a></h3>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thakare-om03/thakare-om03/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thakare-om03/thakare-om03/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thakare-om03/thakare-om03/output/github-contribution-grid-snake.svg">
   </picture>
-  
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
