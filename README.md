@@ -128,16 +128,6 @@ I'm a budding developer with hands-on experience in multiple programming languag
   <h3>📄 <a href="https://drive.google.com/file/d/15S-7ebaVzwVVf1LSjWqRRdOf3X3eZc4U/view?usp=drive_link">View My Resume</a></h3>
 </div>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thakare-om03/thakare-om03/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thakare-om03/thakare-om03/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thakare-om03/thakare-om03/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ## 💭 Random Dev Quote
 
 <div align="center">
