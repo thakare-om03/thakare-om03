@@ -7,7 +7,7 @@
 <div>
   <a href="https://twitter.com/thakare_twts"><img src="https://img.shields.io/twitter/follow/thakare_twts?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
   <a href="https://www.linkedin.com/in/om-thakare-8768bb166/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Profile%20Views-393-0e75b6?style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=thakare-om03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 
 </div>
