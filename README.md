@@ -22,51 +22,6 @@ I'm a budding developer with hands-on experience in multiple programming languag
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakare-om03&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
-## 🔭 Highlight Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Cold Email Generator</h3>
-      <div align="center">
-        <p><strong>An AI-powered tool to generate personalized cold emails based on Business Portfolios</strong></p>
-        <a href="https://github.com/thakare-om03/cold-email-generator" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Mental Health Prediction App</h3>
-      <div align="center">
-        <p><strong>Looking for collaborators on this ML-driven mental health assessment tool</strong></p>
-        <a href="https://github.com/thakare-om03/mental-health-prediction-app" target="_blank">
-          <img src="https://img.shields.io/badge/Contribute-Join%20Project-green?style=for-the-badge&logo=github" alt="Join Project" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">YouTube Semantic Segmenter</h3>
-      <div align="center">
-        <p><strong>Tool for semantic segmentation of YouTube video content</strong></p>
-        <a href="https://github.com/thakare-om03/youtube_semantic_segmenter" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Malware Detection</h3>
-      <div align="center">
-        <p><strong>ML-based system for detecting and classifying malware</strong></p>
-        <a href="https://github.com/thakare-om03/malware-detection" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -94,13 +49,6 @@ I'm a budding developer with hands-on experience in multiple programming languag
   </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thakare-om03&show_icons=true&theme=tokyonight&card_width=495" alt="GitHub Stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakare-om03&layout=compact&theme=tokyonight&card_width=495" alt="Top Languages" style="height: 200px;" />
-</div>
-
 ## 🛠️ Languages and Tools
 
 <div align="center">
@@ -126,10 +74,4 @@ I'm a budding developer with hands-on experience in multiple programming languag
   </a>
   
   <h3>📄 <a href="https://drive.google.com/file/d/15S-7ebaVzwVVf1LSjWqRRdOf3X3eZc4U/view?usp=drive_link">View My Resume</a></h3>
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
