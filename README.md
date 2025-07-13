@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://c.tenor.com/x07J4H4op-gAAAAC/lance-stroll-f1.gif" width="100%" alt="Lance Stroll F1 GIF"/>
+<img src="https://raw.githubusercontent.com/thakare-om03/thakare-om03/main/assets/f1-banner.gif" width="500" alt="F1 Banner"/>
 
-# Om Thakare
+# 🕉️Om Thakare
 
-**Pre-final Year Student @ SRMIST | Budding Developer**
+<div align="center">
+<span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=budding+developer;pre-final+year+@+SRMIST;+always+growing" alt="Typing SVG" />
+</span>
+
+</div>
 
 ---
 
@@ -18,7 +23,7 @@
 
 </div>
 
-## 🏎️ In the Fast Lane
+## About Me
 
 I'm a developer with a passion for building and learning. Currently navigating the world of AI/ML and full-stack development. I thrive in high-speed, collaborative environments and am always pushing the limits of what I can create.
 
@@ -29,7 +34,7 @@ I'm a developer with a passion for building and learning. Currently navigating t
 <div align="center">
   <p><strong>Core Technologies:</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,bootstrap,git,figma" alt="Core Skills"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,tailwind,bootstrap,git,figma" alt="Core Skills"/>
   </p>
   <p><strong>Currently in the Wind Tunnel:</strong></p>
   <p>
@@ -41,4 +46,7 @@ I'm a developer with a passion for building and learning. Currently navigating t
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakare-om03&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=thakare-om03&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
 </div>
+
