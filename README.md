@@ -11,7 +11,7 @@
 <!-- Column 2: Name, Typing SVG, and Links -->
 <td width="60%" valign="middle" align="center">
 <h1>🕉️ Om Thakare</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=budding+developer;pre-final+year+@+SRMIST;+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=budding+developer;pre-final+year" alt="Typing SVG" />
 <br><br>
 <p>
 <a href="https://twitter.com/thakare_twts" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -29,7 +29,7 @@
 <td colspan="2" align="center">
 <hr>
 <h2>About Me</h2>
-<p>I'm a developer with a passion for building and learning. Currently navigating the world of AI/ML and full-stack development. I thrive in high-speed, collaborative environments and am always pushing the limits of what I can create.</p>
+<p>pre-final year dev passionate about building, learning, currently navigating the ai/ml & full-stack landscapes</p>
 </td>
 </tr>
 
@@ -39,7 +39,7 @@
 <!-- Column 1: Tech Stack -->
 <td width="50%" valign="top" align="center">
 <hr>
-<h2>🛠️ Tech Stack & Pit Stop</h2>
+<h2>🛠️ Tech Stack</h2>
 <p><strong>Core Technologies:</strong></p>
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,tailwind,bootstrap,git,figma" alt="Core Skills"/>
