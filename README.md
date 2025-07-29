@@ -27,8 +27,8 @@
 
 <tr>
 <td colspan="2" align="center">
-<hr>
-<h2>About Me</h2>
+
+<h2 align="center" halign="middle" valign="middle">About Me</h2>
 <p>final year dev passionate about building, learning, currently navigating the ai/ml & full-stack landscapes</p>
 </td>
 </tr>
@@ -38,7 +38,6 @@
 <tr>
 <!-- Column 1: Tech Stack -->
 <td width="50%" valign="top" align="center">
-<hr>
 <h2>🛠️ Tech Stack</h2>
 <p><strong>Core Technologies:</strong></p>
 <p>
@@ -51,7 +50,6 @@
 </td>
 <!-- Column 2: GitHub Stats -->
 <td width="50%" valign="top" align="center">
-<hr>
 <h2>📊 GitHub Stats</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakare-om03&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 <br><br>
