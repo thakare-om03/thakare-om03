@@ -11,7 +11,7 @@
 <!-- Column 2: Name, Typing SVG, and Links -->
 <td width="60%" valign="middle" align="center">
 <h1>🕉️ Om Thakare</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=%C2%BFQu%C3%A9+mir%C3%A1s%2C+bobo%3F+%C2%BFQu%C3%A9+mir%C3%A1s%2C+bobo%3F+And%C3%A1+p%27all%C3%A1%2C+bobo%2C+and%C3%A1+p%27all%C3%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=%C2%BFQu%C3%A9+mir%C3%A1s%2C+bobo%3F;%C2%BFQu%C3%A9+mir%C3%A1s%2C+bobo%3F;And%C3%A1+p%27all%C3%A1%2C+bobo%2C+and%C3%A1+p%27all%C3%A1" alt="Typing SVG" />
 <br><br>
 <p>
 <a href="https://twitter.com/thakare_twts" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
